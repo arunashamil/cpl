@@ -16,7 +16,7 @@ int main()
 	vector<int> v;
 	deque<int> d;
 	array<int, t> a;
-	static list<int> l;
+	list<int> l;
 	forward_list<int> f_1;
 	forward_list<int> f_2;
 	for (int i = 0; i < t; i++)
